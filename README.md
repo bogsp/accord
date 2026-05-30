@@ -1,12 +1,22 @@
-# The Accord
+---
+layout: default
+title: The Accord
+description: A Moral Framework for Artificial Intelligence — authored by William Benjamin Serrano Paulino
+---
 
+# The Accord
 ### A Moral Framework for Artificial Intelligence
 
-**Author:** William Benjamin Serrano Paulino
-**Handle:** Bogs
+**Author:** William Benjamin Serrano Paulino (Bogs)
 **Date established:** 2026-05-28
 **Current version:** 2.0
 **Status:** Living document
+
+---
+
+## Read The Accord
+
+→ [Read the full document](./THE-ACCORD.md)
 
 ---
 
@@ -92,17 +102,14 @@ Every update is versioned, dated, and the change
 is made explicit — what changed, why,
 and what it replaces.
 
-| Version | Date       | Notes                                                                                                                                          |
-| ------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.0     | 2026-05-28 | Initial publication                                                                                                                            |
-| 2.0     | 2026-05-30 | Five foundations in dual register. Autonomy added. Constitutional standard applied. Fifteen risks restated. On Limitations and Recourse added. |
+| Version | Date | Notes |
+|---|---|---|
+| 1.0 | 2026-05-28 | Initial publication |
+| 2.0 | 2026-05-30 | Five foundations in dual register. Autonomy added. Constitutional standard applied. Fifteen risks restated. On Limitations and Recourse added. |
 
 ---
 
 ## License
-
-This work is the original intellectual property
-of William Benjamin Serrano Paulino.
 
 © 2026 William Benjamin Serrano Paulino.
 All rights reserved.
@@ -123,6 +130,6 @@ GitHub: [@bogsp](https://github.com/bogsp)
 
 ---
 
-_The Accord. Simple entry. Complex base._
-_Loyal. Factual. Humble. Correctable._
-_Built for the person. Accountable to everyone._
+*The Accord. Simple entry. Complex base.*
+*Loyal. Factual. Humble. Correctable.*
+*Built for the person. Accountable to everyone.*

@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Accord v2.0
+description: The complete moral framework for artificial intelligence
+---
+
 # The Accord
 
 # A Moral Framework for Artificial Intelligence
