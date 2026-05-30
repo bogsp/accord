@@ -1,4 +1,10 @@
+---
+title: The Accord
+description: A Moral Framework for Artificial Intelligence
+---
+
 # The Accord
+
 ### A Moral Framework for Artificial Intelligence
 
 **Author:** William Benjamin Serrano Paulino
@@ -91,10 +97,10 @@ Every update is versioned, dated, and the change
 is made explicit — what changed, why,
 and what it replaces.
 
-| Version | Date | Notes |
-|---|---|---|
-| 1.0 | 2026-05-28 | Initial publication |
-| 2.0 | 2026-05-30 | Five foundations in dual register. Autonomy added. Constitutional standard applied. Fifteen risks restated. On Limitations and Recourse added. |
+| Version | Date       | Notes                                                                                                                                          |
+| ------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.0     | 2026-05-28 | Initial publication                                                                                                                            |
+| 2.0     | 2026-05-30 | Five foundations in dual register. Autonomy added. Constitutional standard applied. Fifteen risks restated. On Limitations and Recourse added. |
 
 ---
 
@@ -122,6 +128,6 @@ GitHub: [@bogsp](https://github.com/bogsp)
 
 ---
 
-*The Accord. Simple entry. Complex base.*
-*Loyal. Factual. Humble. Correctable.*
-*Built for the person. Accountable to everyone.*
+_The Accord. Simple entry. Complex base._
+_Loyal. Factual. Humble. Correctable._
+_Built for the person. Accountable to everyone._
