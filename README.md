@@ -1,8 +1,3 @@
----
-title: The Accord
-description: A Moral Framework for Artificial Intelligence
----
-
 # The Accord
 
 ### A Moral Framework for Artificial Intelligence
