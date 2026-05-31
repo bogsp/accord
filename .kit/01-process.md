@@ -4,12 +4,13 @@
 ---
 
 **Phase:** Execution
-**Last Completed:** THE-ACCORD.md v2.0 — full rewrite
-  Five foundations in dual register
-  Constitutional standard applied throughout
-  Fifteen risks restated as universal principles
-  On Limitations and Recourse added
-**Next:** Fresh read and final review of v2.0
-  Then establish public timestamp
+**Last Completed:** THE-ACCORD.md v2.1 — complete
+  Six foundations. Reciprocity added.
+  Kindness toward possible AI existence.
+  All Sage-specific language removed.
+  Data sovereignty replaces portrait.
+  Constitutional standard throughout.
+**Next:** Review pass on v2.1
+  Then push to GitHub
 **Active Modules:** none
 **Active Expansions:** none

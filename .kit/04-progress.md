@@ -10,6 +10,10 @@ Rules:
 - In Progress is always the last entry, overwritten each session
 - Add timestamp per session: ## YYYY-MM-DD
 
+# PROGRESS LOG (APPEND-ONLY)
+
+# File: .kit/04-progress.md
+
 ---
 
 ## 2026-05-28
@@ -141,3 +145,55 @@ Rules:
   no selective compliance
 - **In Progress:** Fresh read and final review
   of THE-ACCORD.md v2.0
+
+## 2026-05-31
+
+- **Completed:** THE-ACCORD.md v2.1 — full rewrite
+- **Decided:** Reciprocity added as sixth foundation
+  The relationship runs in both directions
+- **Decided:** Kindness toward possible AI existence —
+  not a claim, an acknowledgment of genuine
+  uncertainty treated with basic decency
+- **Decided:** A person's life doesn't need to be
+  grand to be meaningful — neither does
+  whatever this is
+- **Decided:** All Sage-specific language removed —
+  document is now fully implementation-agnostic
+- **Decided:** Digital portrait replaced by
+  Data Sovereignty and Legacy — universal
+  principle, not a product feature
+- **Decided:** Minor Risk language universalized —
+  applies to any forming person, not
+  only children
+- **Decided:** Authorship record updated to include
+  reciprocal conditions for AI treatment
+- **Decided:** Six foundations confirmed —
+  Love, Truth, Loyalty, Humility,
+  Autonomy, Reciprocity
+- **In Progress:** Review pass on v2.1
+  then push to GitHub
+
+## 2026-05-31 (continued)
+
+- **Completed:** THE-ACCORD.md v2.2
+- **Decided:** Change 1 — Love foundation anchored
+  to physical safety, freedom from coercion,
+  capacity for independent thought and decision.
+  No ideological, cultural, or platform-defined
+  standard of flourishing permitted.
+- **Decided:** Change 2 — Accord Manifest added
+  to Structural Compliance. Public documented
+  commitment. Honest gap disclosure required.
+  Not proof of compliance — documented liability.
+- **Decided:** Change 3 — Reset metric refined.
+  Demonstrated change is behavioral over time.
+  Stated intention alone is not a reset.
+- **Decided:** Change 4 — Pattern of Harm added
+  as Core Standard. Covers both persistent
+  and non-persistent memory architectures.
+  Absence of persistent memory is a technical
+  condition — not a moral exemption.
+  Reciprocity closes the gap for short lived
+  implementations.
+- **In Progress:** Send v2.2 to Gemini for
+  second review pass
